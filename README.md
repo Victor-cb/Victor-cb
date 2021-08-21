@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-
-![#1DA1F2][<img align="left" alt="Victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-![#0A66C2][<img align="left" alt="Victor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]'#0A66C2'
+<a href="https://www.linkedin.com/in/victorcbrito/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://twitter.com/Vbrito86?s=08"><img src="https://img.shields.io/twitter/follow/Vbrito86?s=08?style=flat-square"/></a>
 
 <br />
 
