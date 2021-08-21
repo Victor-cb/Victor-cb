@@ -21,13 +21,15 @@
 
 <p align="left">
 
-<code>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)&nbsp;&nbsp;<code>![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;<code>![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;<code>![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<code>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)</code>&nbsp;&nbsp;<code>![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</code> &nbsp;&nbsp;<code>![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</code> &nbsp;&nbsp;<code>![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </code> &nbsp;&nbsp;
 </p>
 <hr>
 <p align ="left">
 
-<code>![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)<code>![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)<code>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<code>![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)</code> <hr>
+<code>![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)</code> &nbsp;&nbsp;<code>![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</code> &nbsp;&nbsp;<code>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)</code> &nbsp;&nbsp;<code>![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)</code> &nbsp;&nbsp;
+</p>
+<hr>
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)</code> 
 <hr>
