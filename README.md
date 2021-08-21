@@ -1,9 +1,5 @@
 ### Hi there, I'm Victor 👋
 
-[!(<img align="left" alt="Python" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png/>)](https://twitter.com/Vbrito86?s=08)
-[![Discord Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg)](Vctr#8127)
-
-
 ## I'm a Husband, Pet Father, Engineer and Data Scientist!!
 
 - 🔭 I just Finished my Data Science at Digital House: [course]!
@@ -15,7 +11,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" style="color: white" alt="Victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Victor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
