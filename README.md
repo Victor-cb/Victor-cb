@@ -4,7 +4,7 @@
 
 - 🔭 I just Finished my Data Science at Digital House: [DH]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 -
+- 👯 - Currently finishing my team project - Crypto Porfolio
 - 🥅 -
 - ⚡ -
 
@@ -39,6 +39,10 @@
 
 <br />
 <br />
+
+###
+
+![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-cb&show_icons=true&include_all_commits=true)
 ---
 
 
