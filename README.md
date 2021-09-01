@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Pet Father, Engineer and Data Scientist!!
 
-- 🔭 I just Finished my Data Science at Digital House: [DH]!
+- 🔭 I just Finished my Data Science course at Digital House: [DH]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 - Currently finishing my team project - Crypto Porfolio
 - 🥅 -
