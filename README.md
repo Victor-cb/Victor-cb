@@ -4,8 +4,8 @@
 
 - 🔭 I just Finished my Data Science course at Digital House: [DH]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 - Currently finishing my team project - Crypto Porfolio
-- 🥅 -
+- 👯 - Currently finishing my team project - Crypto Porfolio [Repo]! | [Web_App]!
+- 🥅 - 
 - ⚡ -
 
 ### Connect with me:
@@ -54,3 +54,5 @@
 [DH]: https://www.digitalhouse.com/br/
 [twitter]: https://twitter.com/Vbrito86?s=08
 [linkedin]: https://www.linkedin.com/in/victorcbrito/
+[Repo]: https://github.com/Victor-cb/Cryptofolio.git
+[Web_App]: https://criptofolio.herokuapp.com/
