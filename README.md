@@ -40,13 +40,6 @@
 <br />
 <br />
 
-###
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-victor-cb.vercel.app/api?username=victor-cb&show_icons=true&hide_border=true" />
-
-</details>
 
 ---
 
