@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/victorcbrito/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://twitter.com/Vbrito86?s=08"><img src="https://img.shields.io/twitter/follow/Vbrito86?s=08?style=flat-square"/></a>
+<a href="https://twitter.com/Vbrito86?s=08"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href= "https://github.com/Victor-cb"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a>
 <a href= "https://medium.com/@brito.victorc"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href= "https://www.kaggle.com/victorcbr"> <img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
