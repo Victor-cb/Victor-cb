@@ -1,11 +1,11 @@
 ### Hi there, I'm Victor 👋
 
-## I'm a Husband, Pet Father, Engineer and Data Scientist!!
+## I'm a Husband, Pet Father, Data Scientis and Engineer!!
 
 - 🔭 I just Finished my Data Science course at Digital House: [DH]
 - 🌱 I’m currently learning everything 🤣
-- 👯 - Currently finishing my team project - Crypto Porfolio [Repo] | [Web_App]
-- 🥅 - 
+- 👯 - Last project -> Crypto Porfolio [Repo] | [Web_App]
+- 🥅 - I am starting my owm blog at Medium -> [Medium]
 - ⚡ -
 
 ### Connect with me:
@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/victorcbrito/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://twitter.com/Vbrito86?s=08"><img src="https://img.shields.io/twitter/follow/Vbrito86?s=08?style=flat-square"/></a>
 <a href= "https://github.com/Victor-cb"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a>
+<a href= "https://medium.com/@brito.victorc"> < img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href= "https://www.kaggle.com/victorcbr"> <img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
  
 
 <br />
@@ -31,7 +33,7 @@
 </p>
 <hr>
 
-<code>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)</code> &nbsp;&nbsp;
+<code>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)</code> &nbsp;&nbsp;<code>![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)</code> &nbsp;&nbsp;
 <hr>
 
 <code>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</code> &nbsp;&nbsp;<code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> 
@@ -49,3 +51,4 @@
 [linkedin]: https://www.linkedin.com/in/victorcbrito/
 [Repo]: https://github.com/Victor-cb/Cryptofolio.git
 [Web_App]: https://criptofolio.herokuapp.com/
+[Medium]: https://medium.com/com-dados
