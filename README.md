@@ -4,7 +4,7 @@
 
 - 🔭 I just Finished my Data Science course at Digital House: [DH]
 - 🌱 I’m currently learning everything 🤣
-- 👯 - Last project -> Crypto Porfolio [Repo] | [Web_App]
+- 👯 - Last project -> ASR Portuguese [Repo] 
 - 🥅 - I am starting my owm blog at Medium -> [Medium]
 - ⚡ -
 
@@ -50,6 +50,6 @@
 [DH]: https://www.digitalhouse.com/br/
 [twitter]: https://twitter.com/Vbrito86?s=08
 [linkedin]: https://www.linkedin.com/in/victorcbrito/
-[Repo]: https://github.com/Victor-cb/Cryptofolio.git
+[Repo]: https://huggingface.co/Vkt/first_model
 [Web_App]: https://criptofolio.herokuapp.com/
 [Medium]: https://medium.com/com-dados
