@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Pet Father, Data Scientis and Engineer!!
 
-- 🔭 I just Finished my Data Science course at Digital House: [DH]
+- 🔭 I finishing a Data Engineering Course, I believe will help on my stack 
 - 🌱 I’m currently learning everything 🤣
 - 👯 - Last project -> ASR Portuguese [Repo] 
 - 🥅 - I am starting my owm blog at Medium -> [Medium]
@@ -47,7 +47,7 @@
 ---
 
 
-[DH]: https://www.digitalhouse.com/br/
+
 [twitter]: https://twitter.com/Vbrito86?s=08
 [linkedin]: https://www.linkedin.com/in/victorcbrito/
 [Repo]: https://huggingface.co/Vkt/first_model
