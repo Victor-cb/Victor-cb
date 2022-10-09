@@ -1,12 +1,11 @@
 ### Hi there, I'm Victor 👋
 
-## I'm a Husband, Pet Father and Data Scientist!!
+### I'm a Husband, Pet Father and Data Scientist!
 
-- 🔭 I finishing a Data Engineering Course, I believe will help on my stack 
-- 🌱 I’m currently learning everything 🤣
-- 👯 - Last project -> ASR Portuguese [Repo] 
-- 🥅 - I am starting my owm blog at Medium -> [Medium]
-- ⚡ -
+- 🔭 - I am studying NLP for a Kaggle competition
+- 🌱 - I’m currently learning a bit of everything 🤣
+- 👯 - Last project -> Credit Card Default prediction [Repo] 
+- 🥅 - You can check my articles at my [Medium] page 
 
 ### Connect with me:
 
@@ -23,8 +22,21 @@
 
 <p align="left">
 
-<code>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)</code>&nbsp;&nbsp;<code>![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</code> &nbsp;&nbsp;<code>![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</code> &nbsp;&nbsp;<code>![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<code>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)</code>&nbsp;&nbsp;<code>![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</code> &nbsp;&nbsp;<code>![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</code> &nbsp;&nbsp;<code>![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)</code> &nbsp;&nbsp;<code>![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+</code>&nbsp;&nbsp;<code>![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </code> &nbsp;&nbsp;
+<code>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</code> &nbsp;&nbsp;<code>
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</code> &nbsp;&nbsp;</code> &nbsp;&nbsp;<code>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</code> &nbsp;&nbsp;<code>
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+</code> &nbsp;&nbsp;<code>
+![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
+</code> &nbsp;&nbsp;
+
+
 </p>
 <hr>
 <p align ="left">
@@ -34,24 +46,35 @@
 <hr>
 
 
-<code>![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)</code>&nbsp;&nbsp;<code>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)</code> &nbsp;&nbsp;
+<code>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</code>&nbsp;&nbsp;<code>![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)</code>&nbsp;&nbsp;
+
 <hr>
 
 <code>![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</code> &nbsp;&nbsp;<code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> 
 >
 
-<br />
-<br />
+## My machine learning projects:
 
-## My projects:
+[Essay Evaluation] <br/>
+[Card Default Prediction - XgBoost]<br/>
+[Neural Network from scratch]<br/>
+[TensorFlow Object Detection Project]<br/>
+[ASR HuggingFace PTbr]<br/>
+[Cryptofilio]<br/>
+[Project Structure - CookieCutter]
 
 
 ---
 
-
-
+[Essay Evaluation]: https://github.com/Victor-cb/essay_evaluation
+[Project Structure - CookieCutter]: https://github.com/Victor-cb/cookiecutter-simple-datascience 
+[Cryptofilio]: https://github.com/Victor-cb/Cryptofolio
+[ASR HuggingFace PTbr]:https://github.com/Victor-cb/asr-huggingface-PTBR
+[TensorFlow Object Detection Project]:https://github.com/Victor-cb/TensorFlow---Object-Detection
+[Neural Network from scratch]: https://github.com/Victor-cb/neural_net_from_scratch
+[Card Default Prediction - XgBoost]: https://github.com/Victor-cb/American_Express-Default_Prediction
 [twitter]: https://twitter.com/Vbrito86?s=08
 [linkedin]: https://www.linkedin.com/in/victorcbrito/
-[Repo]: https://huggingface.co/Vkt/first_model
+[Repo]: https://github.com/Victor-cb/American_Express-Default_Prediction
 [Web_App]: https://criptofolio.herokuapp.com/
-[Medium]: https://medium.com/com-dados
+[Medium]: https://medium.com/data-wiz
