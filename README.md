@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor 👋
 
-## I'm a Husband, Pet Father and **Data Scientist** and Engineer!!
+## I'm a Husband, Pet Father and Data Scientist!!
 
 - 🔭 I finishing a Data Engineering Course, I believe will help on my stack 
 - 🌱 I’m currently learning everything 🤣
@@ -42,6 +42,8 @@
 
 <br />
 <br />
+
+## My projects:
 
 
 ---
